@@ -31,7 +31,7 @@ Rush Hour Game is a 2D car simulation game developed as part of my Computer Scie
 ## Installation and Running the Game
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/RushHourGame.git
+   git clone https://github.com/Nouman-Amjad/RushHourGame.git
 2. Navigate to the project directory:
    ```bash
    cd RushHourGame
